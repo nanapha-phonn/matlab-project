@@ -1,2 +1,2 @@
-# python-project
-This is my little learning python project code that i learn.
+# matlab-project
+This is my little learning matlab project code that i learn.
